@@ -20,8 +20,3 @@ Para ejecutar este proyecto, se requiere tener instalado:
 - DocX
 - Microsoft.Office.Interop.Word
 - Microsoft.Office.Excel
-
-# PowerPoint -> Word
-
-Para pasas un archivo PowerPoint a Word, deberemos hacer uso de la siguiente web: 
-"https://online2pdf.com/es/convertir-powerpoint-a-word#"
